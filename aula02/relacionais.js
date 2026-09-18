@@ -6,7 +6,7 @@ if (nome == "Maria") {
     console.log("nomes diferentes");
 }
 
-altura = 1.76;
+let altura = 1.76;
 
 if (altura === 1.76) {
     console.log("altura 1.76m");
