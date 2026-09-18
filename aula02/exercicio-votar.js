@@ -1,5 +1,5 @@
     let nome = "Alison";
-    let idade = 33;
+    let idade = 13;
 
     if (idade >= 18 && idade < 70) {
         console.log(nome + " é obrigado a votar");
